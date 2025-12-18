@@ -43,7 +43,7 @@ The system utilizes **Role-Based Access Control (RBAC)** to ensure data security
 
 ## 🎨 Design System
 The application follows a **Dark Mode / Stage Aesthetic** to reflect the production environment of the guild.
-- **Primary Color:** RPG Red (`#B70000`)
+- **Primary Color:** RPG Red (`#A50207`)
 - **Accent Color:** SAMCIS Gold (`#F2D024`)
 - **Background:** Deep Stage Black (`#121212`)
 
